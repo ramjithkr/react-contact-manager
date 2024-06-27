@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-contact-manager/static/css/main.de908057.css",
+    "main.js": "/react-contact-manager/static/js/main.3451270a.js",
+    "static/js/453.a2c83ee7.chunk.js": "/react-contact-manager/static/js/453.a2c83ee7.chunk.js",
+    "index.html": "/react-contact-manager/index.html",
+    "main.de908057.css.map": "/react-contact-manager/static/css/main.de908057.css.map",
+    "main.3451270a.js.map": "/react-contact-manager/static/js/main.3451270a.js.map",
+    "453.a2c83ee7.chunk.js.map": "/react-contact-manager/static/js/453.a2c83ee7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de908057.css",
+    "static/js/main.3451270a.js"
+  ]
+}
